@@ -22,6 +22,7 @@ Greetings!
 I'm a DevOps Engineer with a background in systems administration and enterprise infrastructure. I work primarily with tools like Terraform and Kubernetes to manage cloud environments and automate processes.
 
 ### Skills
+- **Platforms:** AWS, Azure
 - **Languages:** Python, Bash, PowerShell, HCL
 - **Tools:** Terraform, Kubernetes
 
@@ -29,9 +30,9 @@ I'm a DevOps Engineer with a background in systems administration and enterprise
 - **Current Role:** DevOps Engineer
 - **Previous Roles:**
   - Enterprise Infrastructure Engineer
-  - IT Manager
-  - Sys Administrator
+  - Systems Administrator
   - IT Systems Analyst
+  - IT Manager
 
 ### Work
 
