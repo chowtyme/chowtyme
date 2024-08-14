@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# chowtyme
+Greetings!
+
+### About Me
+I'm a DevOps Engineer with a background in systems administration and enterprise infrastructure. I work primarily with tools like Terraform and Kubernetes to manage cloud environments and automate processes.
+
+### Skills
+- **Languages:** Python, Bash, PowerShell, HCL
+- **Tools:** Terraform, Kubernetes
+
+### Career
+- **Current Role:** DevOps Engineer
+- **Previous Roles:**
+  - Enterprise Infrastructure Engineer
+  - IT Manager
+  - Sys Administrator
+  - IT Systems Analyst
+
+### Work
+
+- **Currently:** DevOps for an organization with managing infrastrucure.
